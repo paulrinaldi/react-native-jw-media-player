@@ -176,7 +176,7 @@ Running the example project:
 2. Go to `Example` directory and run `yarn` or `npm i`
 3. Go to `Example/ios` and install Pods with `pod install`
 4. Open `RNJWPlayer.xcworkspace` with XCode.
-5. Add your JW SDK license in `App.js` under the `config `prop.
+5. Add your JW SDK license(s) by editing `cp Example/.env.example Example/.env`.
 
 ## Available props
 
